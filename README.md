@@ -1,4 +1,4 @@
-# cad-intro
+# CAD Intro
 
 [CAD for Gardeners](https://natureworks.org.uk/classes/cad-intro) working files
 
